@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @Eng-Mouaz-M-AlShahmeh
 
 - 👀 I’m interested in: 
-   * HTML5 || CSS3 || ECMA2018 || Bootstrap
-   * PYTHON
-   * PHP || Laravel PHP
+   * PHP || Laravel
    * DART || Flutter
-   * Restful API
+   * Restful API || OOP || Clean Code
    
 - 📫 How to reach me:
   * Email: m.m.shahmeh@gmail.com

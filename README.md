@@ -13,6 +13,7 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
 
   [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/mouaz_m_shahmeh?label=Follow%20me)](https://twitter.com/mouaz_m_shahmeh)
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mouaz-shahmeh/)
+  [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mouazshahmeh.official)
   [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCsdAG5SmYOGnL2LTC_JSiBA?style=social)](https://youtube.com/MouazShahmeh)
   [!["Views"](https://img.shields.io/youtube/channel/views/UCsdAG5SmYOGnL2LTC_JSiBA?style=social)](https://youtube.com/MouazShahmeh)
   [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@m.m.shahmeh)
@@ -28,6 +29,8 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
 ### Github Stats
 
 [![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-readme-stats.vercel.app/api?username=Eng-Mouaz-M-AlShahmeh&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Eng-Mouaz-M-AlShahmeh)
+
+[![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Mouaz-M-AlShahmeh&theme=vue)](https://github.com/Eng-Mouaz-M-AlShahmeh)
 
 ### Want to support?
  

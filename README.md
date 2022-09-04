@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40Eng-Mouaz-M-AlShahmeh+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+%40Eng-Mouaz-M-AlShahmeh+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [StartTech](https://sta.sa) and Google Developer [GD](https://developers.google.com/profile/u/mouaz_m_shahmeh) for Flutter & Dart.
 

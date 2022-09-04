@@ -7,7 +7,7 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [PHP](https://www.php.net), [Laravel](https://laravel.com).
 - 👀 I’m interested in: 
-   * Restful API || OOP || Clean Code
+   * API || OOP || Clean Code
    
 - 📫 How to reach me:
 

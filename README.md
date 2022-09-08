@@ -38,3 +38,6 @@ Do you find my work to be of a value for you?
 You can support me, buy me a **Book**, or a **Coffee**.
 
 [!["PayPal"](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.com/paypalme/mshahmeh)
+
+![Visitor Count](https://profile-counter.glitch.me/Eng-Mouaz-M-AlShahmeh/count.svg)
+

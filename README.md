@@ -20,6 +20,9 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
   [!["StackOverflow"](https://img.shields.io/badge/StackOverflow-FFFFFF?style=flat&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/18449528/mouaz-m-shahmeh)
   [!["My Email"](https://img.shields.io/badge/Email-m.m.shahmeh@gmail.com-orange)](m.m.shahmeh@gmail.com)
   [!["Whatapp"](https://img.shields.io/badge/Whatsapp-%2B966--533033568-green)](+966533033568) 
+  
+- 👀 Github Profile Visits: 
+![Visitor Count](https://profile-counter.glitch.me/Eng-Mouaz-M-AlShahmeh/count.svg)
  
 ### Some Projects
 
@@ -38,8 +41,4 @@ Do you find my work to be of a value for you?
 You can support me, buy me a **Book**, or a **Coffee**.
 
 [!["PayPal"](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://www.paypal.com/paypalme/mshahmeh)
-
-
-## Views: 
-![Visitor Count](https://profile-counter.glitch.me/Eng-Mouaz-M-AlShahmeh/count.svg)
 

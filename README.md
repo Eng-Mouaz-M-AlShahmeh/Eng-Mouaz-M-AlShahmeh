@@ -2,12 +2,12 @@
 
 I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [StartTech](https://sta.sa) and Google Developer [GD](https://developers.google.com/profile/u/mouaz_m_shahmeh) for Flutter & Dart.
 
-- 🔭 I’m currently working on improving my skills as a software engineer.
+<!-- - 🔭 I’m currently working on improving my skills as a software engineer.
 - 🌱 I’m currently curious about mobile, web, desktop and backend development.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [PHP](https://www.php.net), [Laravel](https://laravel.com).
 - 👀 I’m interested in: 
-   * API || OOP || Clean Code
+   * API || OOP || Clean Code -->
    
 - 📫 How to reach me:
 

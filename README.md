@@ -21,9 +21,9 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
   [!["My Email"](https://img.shields.io/badge/Email-m.m.shahmeh@gmail.com-orange)](m.m.shahmeh@gmail.com)
   [!["Whatapp"](https://img.shields.io/badge/Whatsapp-%2B966--533033568-green)](+966533033568) 
   
-- 👀 Github Profile Visits: 
+<!-- - 👀 Github Profile Visits: 
 
-  ![Visitor Count](https://profile-counter.glitch.me/Eng-Mouaz-M-AlShahmeh/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/Eng-Mouaz-M-AlShahmeh/count.svg) -->
  
 ### Some Projects
 

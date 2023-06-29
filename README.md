@@ -15,7 +15,6 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mouaz-shahmeh/)
     [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&labelColor=white)](https://www.facebook.com/mouazshahmeh.official)  
 <!--  [!["Facebook"](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mouazshahmeh.official)-->
-  
   [!["YouTube"](https://img.shields.io/youtube/channel/subscribers/UCsdAG5SmYOGnL2LTC_JSiBA?style=social)](https://youtube.com/MouazShahmeh)
   [!["Views"](https://img.shields.io/youtube/channel/views/UCsdAG5SmYOGnL2LTC_JSiBA?style=social)](https://youtube.com/MouazShahmeh)
   [!["Medium"](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@m.m.shahmeh)

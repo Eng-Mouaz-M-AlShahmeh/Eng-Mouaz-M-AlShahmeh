@@ -16,6 +16,8 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
 <!-- - 👀 Github Profile Visits: 
 
   ![Visitor Count](https://profile-counter.glitch.me/Eng-Mouaz-M-AlShahmeh/count.svg) -->
+
+[![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-readme-stats.vercel.app/api?username=Eng-Mouaz-M-AlShahmeh&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Eng-Mouaz-M-AlShahmeh)
  
 ### Some Projects
 
@@ -32,11 +34,7 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
 
 - **Flutter Apps Development - First Edition** ([Flutter official docs](https://docs.flutter.dev/resources/books))
 
-### Github Stats
-
 [![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Mouaz-M-AlShahmeh&theme=vue)](https://github.com/Eng-Mouaz-M-AlShahmeh)
-
-[![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-readme-stats.vercel.app/api?username=Eng-Mouaz-M-AlShahmeh&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Eng-Mouaz-M-AlShahmeh)
 
 ### Want to support?
  

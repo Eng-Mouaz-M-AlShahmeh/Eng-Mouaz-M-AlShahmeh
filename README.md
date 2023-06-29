@@ -23,10 +23,18 @@ I am Software Engineer and Developer at [AlRaedaah](https://alraedaah.com) and [
 - **Tadawl real-estate App** ([Android](https://play.google.com/store/apps/details?id=com.tadawlapp.tadawl_app)) ([IOS](https://apps.apple.com/sa/app/تطبيق-تداول-العقاري/id1569963764))
 - **TQDR Pay system** (TQDR App [Android](https://play.google.com/store/apps/details?id=com.alraedaah.tqdr) [IOS](https://apps.apple.com/app/ت%D9%90قدر/id1610298357)) (TQDR Service Provider App [Android](https://play.google.com/store/apps/details?id=com.alraedaah.tqdr_service_provider))
 
+### Flutter Packages
+
+- **Meta SEO Package** ([pub.dev](https://pub.dev/packages/meta_seo))
+- **TQDR Pay SA Package** ([pub.dev](https://pub.dev/packages/tqdrpaysa))
+
+### Books
+
+- **Flutter Apps Development - First Edition** ([Flutter official docs](https://docs.flutter.dev/resources/books))
+
 ### Github Stats
 
 [![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-readme-stats.vercel.app/api?username=Eng-Mouaz-M-AlShahmeh&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Eng-Mouaz-M-AlShahmeh)
-
 [![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Mouaz-M-AlShahmeh&theme=vue)](https://github.com/Eng-Mouaz-M-AlShahmeh)
 
 ### Want to support?

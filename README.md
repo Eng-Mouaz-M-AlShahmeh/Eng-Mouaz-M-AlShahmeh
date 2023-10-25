@@ -28,12 +28,15 @@ I am Software Engineer and Developer at AlRaedaah and StartTech, and Flutter & D
 
 ### Flutter Packages
 
+- **API Guide Package** ([pub.dev](https://pub.dev/packages/api_guide))
 - **Meta SEO Package** ([pub.dev](https://pub.dev/packages/meta_seo))
 - **TQDR Pay SA Package** ([pub.dev](https://pub.dev/packages/tqdrpaysa))
 
 ### Books
 
-- **Flutter Apps Development - First Edition** ([Flutter official docs](https://docs.flutter.dev/resources/books))
+- **Flutter Apps Development - First Edition** ([Flutter official docs](https://docs.flutter.dev/resources/books#:~:text=by%20Mouaz%20M.%20Al%2DShahmeh))
+
+- **Flutter Apps Development - Second Edition** ([Amazon](https://www.amazon.com/dp/B0CGX4FZHK?ref_=cm_sw_r_cp_ud_dp_DG2YRPY6KJ6SS0ZE457B))
 
 [![@Eng-Mouaz-M-AlShahmeh's Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Mouaz-M-AlShahmeh&theme=vue)](https://github.com/Eng-Mouaz-M-AlShahmeh)
 

@@ -24,7 +24,7 @@ I am Software Engineer and Developer at AlRaedaah and StartTech, and Flutter & D
 
 - **Esali App** ([Android](https://play.google.com/store/apps/details?id=com.engmouaz.esali))
 - **Tadawl real-estate App** (Android) ([IOS](https://apps.apple.com/sa/app/تطبيق-تداول-العقاري/id1569963764))
-- **TQDR Pay system** (TQDR App Android [IOS](https://apps.apple.com/app/ت%D9%90قدر/id1610298357)) (TQDR Service Provider App Android)
+- **TQDR Pay system** (TQDR App Android IOS) (TQDR Service Provider App Android)
 
 ### Flutter Packages
 

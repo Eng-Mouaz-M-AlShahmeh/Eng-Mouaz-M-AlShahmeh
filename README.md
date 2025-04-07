@@ -22,8 +22,8 @@ I am Software Engineer and Developer at AlRaedaah and StartTech, and Flutter & D
  
 ### Some Projects
 
-- **Esali App** ([Android](https://play.google.com/store/apps/details?id=com.engmouaz.esali))
-- **Tadawl real-estate App** (Android) ([IOS](https://apps.apple.com/sa/app/تطبيق-تداول-العقاري/id1569963764))
+- **Esali App** (Android)
+- **Tadawl real-estate App** (Android) (IOS)
 - **TQDR Pay system** (TQDR App Android IOS) (TQDR Service Provider App Android)
 
 ### Flutter Packages
